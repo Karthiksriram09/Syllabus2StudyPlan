@@ -1,0 +1,20 @@
+{
+  "app\\build\\page.tsx -> ics": {
+    "id": "app\\build\\page.tsx -> ics",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_ics_dist_index_js.js"
+    ]
+  },
+  "app\\build\\page.tsx -> jszip": {
+    "id": "app\\build\\page.tsx -> jszip",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_jszip_dist_jszip_min_js.js"
+    ]
+  },
+  "app\\build\\page.tsx -> mammoth/mammoth.browser": {
+    "id": "app\\build\\page.tsx -> mammoth/mammoth.browser",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_mammoth_mammoth_browser_js.js"
+    ]
+  }
+}
